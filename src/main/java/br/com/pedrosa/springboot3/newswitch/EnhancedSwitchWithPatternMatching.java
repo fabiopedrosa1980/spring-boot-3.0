@@ -1,4 +1,4 @@
-package br.com.pedrosa.springboot3;
+package br.com.pedrosa.springboot3.newswitch;
 
 import br.com.pedrosa.springboot3.dto.Color;
 import br.com.pedrosa.springboot3.dto.Color.*;

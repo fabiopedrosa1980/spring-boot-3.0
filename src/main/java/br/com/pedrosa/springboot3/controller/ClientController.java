@@ -14,7 +14,7 @@ public class ClientController {
 
     private ListClientService listClientService;
 
-    public ClientController(ListClientService listClientService){
+    public ClientController(final ListClientService listClientService){
         this.listClientService = listClientService;
     }
 
