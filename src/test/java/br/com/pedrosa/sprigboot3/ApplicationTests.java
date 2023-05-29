@@ -1,4 +1,4 @@
-package br.com.pedrosa.springboot30;
+package br.com.pedrosa.sprigboot3;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
